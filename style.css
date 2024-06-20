@@ -47,7 +47,7 @@ ul.topnav {
 }
 .projects-section {
     background-color: antiquewhite;
-    padding: 50px 0;
+    padding: 10px 0;
 }
 .headShot {
    align-self: center;
@@ -108,9 +108,9 @@ footer p {
 }
 .columns {
     columns: 100px 3;
-    column-gap: 40px;
+    column-gap: 10px;
     background-color: antiquewhite transparent;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     background-blend-mode: lighten;
   }
   .bio {
@@ -126,6 +126,10 @@ footer p {
     display: flexbox;
     text-align: center;
     text-emphasis-color: blue;
-    size: 100px;
     background-color: antiquewhite;
+}
+
+img {
+        -webkit-box-reflect: below;
+      
 }
